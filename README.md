@@ -1,1 +1,3 @@
-# Faasos_Project
+1. Create Various Table Mutiple Error: driver, ingredients, rolls, rolls recipes, driver orders, customer orders
+2. Solved Mutiple Problem with data exploration, data cleaning, data structuring : how many rolls were ordered? how many unique customer orders were made? how many successful orders delivered?  how many veg and nonveg rolls were ordered by each customer? for each customer, how many delivered rolls had at least 1 change and how many had no change?
+what was the total number of rolls ordered for each hour of the day? what was the number of orders for each day of the week? what was the average time in minutes it took for each driver to arrive at the fasoos hq to pickup order?
